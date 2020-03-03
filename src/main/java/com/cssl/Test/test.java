@@ -12,6 +12,8 @@ public class test {
     public static void main(String[] args) {
         System.out.println("Hello Word!!!");
         System.out.println("这是我第一次提交到GitHub！！！");
+
+        System.out.println("这是我第一次从github下载项目");
     }
 
 }
